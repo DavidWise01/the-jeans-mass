@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1850
+slug  : the-jeans-mass
+seal  : 7b32cbd98e1211dfc99c7260eadd97d191615f4cfe085378116f74dfc3892ede
+prev  : ba1fc7610c6c643669a9e7186d3c451a9a1f41d58ec8abd7eb1ef5c4e79b21f1
+link  : 8f2c2294c17c3e71a1c88e9b80d59ce1aa9356863234bf1cfd65e5d4582c8203
+head  : 17c96d0e74a6335e625fc69f3c7dd549b719843469c12a35c2fe0c289ce462c2
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
